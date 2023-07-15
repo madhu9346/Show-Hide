@@ -1,0 +1,42 @@
+.con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to right, #fa7257, #fc63a7);
+  height: 100vh;
+}
+.head {
+  color: white;
+  font-weight: bold;
+  font-family: Bree Serif;
+  font-size: 60px;
+}
+.con1 {
+  display: flex;
+}
+.btn {
+  color: #fc63a7;
+  background-color: white;
+  padding: 8px;
+  margin-right: 90px;
+  border-width: 0px;
+  border-radius: 5px;
+}
+.btn1 {
+  color: #fc63a7;
+  background-color: white;
+  padding: 8px;
+  margin-left: 90px;
+  border-width: 0px;
+  border-radius: 5px;
+}
+.hide {
+  color: black;
+  background-color: white;
+  padding: 20px;
+  font-size: 40px;
+  font-weight: bold;
+  border-radius: 10px;
+  margin: 20px;
+}
